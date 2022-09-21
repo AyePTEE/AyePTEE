@@ -1,7 +1,8 @@
 ![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f3638373437343730373333613266326636393265373036393665363936643637326536333](https://user-images.githubusercontent.com/55792028/183431268-15901d73-8ab8-42fd-80d1-f138dc6a7e29.gif)
 
 <h1 align="center">Hi 👋, My name is Prakhar Thapliyal</h1>
-<h3 align="center">A passionate thinker, learner and problem solver from India</h3>
+<h3 align="center">A fire to learn and a will to go beyond, I am a passionate about the how and why of everything.</h3>
+<h3 align="center">Currently a resident of Dehradun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeptee&label=Profile%20views&color=0e75b6&style=flat" alt="ayeptee" /> </p>
 
