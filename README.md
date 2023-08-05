@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **any sort of project**
 
-- 💬 Ask me about **my dog**
-
 - 📫 How to reach me **prakharthapliyal324@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
